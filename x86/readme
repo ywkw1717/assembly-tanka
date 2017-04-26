@@ -1,0 +1,4 @@
+This is the x86 program.
+
+Example(compile a program): gcc -m32 filename
+
